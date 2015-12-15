@@ -16,9 +16,11 @@ Extract the Lib/GoogleURLAPI.php file and place in app/Lib/GoogleURLAPI.php
 ```
 Configure Google URL Shortener Server API key in Cofig/core.php
 
-Configure::write('GoogleURLAPIServerKey', 'your key');
+Configure::write('GoogleURLAPIServerKey', 'your key'); //This is your Private API Server Key 
 
 ```
+follow this link to generate server key [Visit Google Developers site](https://developers.google.com/url-shortener/v1/getting_started)
+
 ####Step 3:
 
 
