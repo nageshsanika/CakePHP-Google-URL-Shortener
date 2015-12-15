@@ -1,6 +1,6 @@
 ## CakePHP-Google-URL-Shortener
 
-*If you want send urls through out tweats, sms or other texts which should stay as short as possible and could contain urls. There are many use cases where such a shortening service might be useful. The one is fast and reliable and without costs.
+*If you want send urls through out tweats, sms or other texts which should stay as short as possible and could contain urls. There are many use cases where such a shortening service might be useful. The one is fast and reliable and without costs.*
 
 
 ### Usage
